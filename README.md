@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhatsgautam
-- 👀 I’m interested in coding, viz and plants
-- 🌱 I’m currently learning knitting :yarn:
-- 💞️ I’m looking to collaborate on higher education and civic engagement datasets
+- 👀 I’m interested in coding, viz and plants 🌱
+- 🌱 I’m currently learning knitting :yarn:✨
+- 💞️ I’m looking to collaborate on higher education and civic engagement datasets✨
 - 📫 How to reach me prabhatsgautam@gmail.com
 
 <!---
